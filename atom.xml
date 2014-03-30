@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://123nobody.github.io/atom.xml" rel="self"/>
   <link href="http://123nobody.github.io/"/>
-  <updated>2014-03-30T19:44:50+08:00</updated>
+  <updated>2014-03-30T19:50:01+08:00</updated>
   <id>http://123nobody.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ios7-back]]></title>
+    <link href="http://123nobody.github.io/blog/2014/03/30/ios7-back/"/>
+    <updated>2014-03-30T19:48:47+08:00</updated>
+    <id>http://123nobody.github.io/blog/2014/03/30/ios7-back</id>
+    <content type="html"><![CDATA[<h2>iOS 7 的滑动返回那些事</h2>
+
+<p>iOS 7的发布给我们带来了诸多新特性，其中一个比较重要的就是 iOS 7 新增了 UINavigationController 的滑动返回，&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
